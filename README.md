@@ -1,6 +1,8 @@
 <!-- repo-card -->
 ![Number-Validator](docs/assets/social-card.png)
 
+![Number-Validator — architecture](docs/assets/architecture.png)
+
 # Number Validator
 
 A phone number validation web application built with Python Flask. The app provides a clean web interface for validating international phone numbers using the NumVerify API, returning carrier details, line type, location, and validity status.
